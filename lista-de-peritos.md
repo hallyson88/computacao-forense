@@ -45,7 +45,7 @@ REGIÃO NORDESTE
 
      * SÃO LUÍS
 	
-	* [ Hallyson Carlos (Perito Forense em Informática) ](www.linkedin.com/in/hallyson-carlos) 
+		* [ Hallyson Carlos (Perito Forense em Informática) ](https://www.linkedin.com/in/hallyson-carlos) 
 
 * PARAÍBA
 
