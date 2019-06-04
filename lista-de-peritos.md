@@ -41,7 +41,9 @@ REGIÃO NORDESTE
 
 * CEARÁ	
 
-* MARANHÃO	
+* MARANHÃO
+	  Hallyson Carlos (Analista e Perito Forense em Informática) 
+    https://www.linkedin.com/in/hallyson-carlos-59a0a9ba     
 
 * PARAÍBA
 
