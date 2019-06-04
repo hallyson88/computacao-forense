@@ -43,6 +43,10 @@ REGIÃO NORDESTE
 
 * MARANHÃO	
 
+     * SÃO LUÍS
+	
+	* [ Hallyson Carlos (Perito Forense em Informática) ](www.linkedin.com/in/hallyson-carlos) 
+
 * PARAÍBA
 
 * PERNAMBUCO
